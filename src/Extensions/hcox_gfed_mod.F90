@@ -74,7 +74,7 @@ MODULE HCOX_GFED_MOD
 !       Mu, M., Kasibhatla, P. S., Morton, D. C., DeFries, R. S., Jin, Y.,
 !       and van Leeuwen, T. T.: Global fire emissions and the contribution of
 !       deforestation, savanna, forest, agricultural, and peat fires
-!       (1997â~@~S2009), Atmos. Chem. Phys., 10, 11707-11735,
+!       (1997ï¿½~@~S2009), Atmos. Chem. Phys., 10, 11707-11735,
 !       doi:10.5194/acp-10-11707-2010, 2010.
 !
 ! !REVISION HISTORY:
@@ -92,7 +92,7 @@ MODULE HCOX_GFED_MOD
   ! N_SPEC  : Max. number of species
   !=================================================================
   INTEGER,           PARAMETER :: N_EMFAC = 6
-  INTEGER,           PARAMETER :: N_SPEC  = 45
+  INTEGER,           PARAMETER :: N_SPEC  = 47
 !
 ! !PRIVATE TYPES:
 !

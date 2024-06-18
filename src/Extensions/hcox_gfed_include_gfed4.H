@@ -470,4 +470,22 @@ Inst%GFED4_EMFAC(45,4)=3.9E-04_hp !DEFO - Tropical
 Inst%GFED4_EMFAC(45,5)=5.7E-05_hp !PET -  Peatland
 Inst%GFED4_EMFAC(45,6)=4.8E-04_hp !AGW - Crop residue
 
+! Acetonitrile
+GFED4_SPEC_NAME(46)="CH3CN"
+Inst%GFED4_EMFAC(46,1)=1.7E-04_hp !SAV - Savannah
+Inst%GFED4_EMFAC(46,2)=3.1E-04_hp !BORF - Boreal
+Inst%GFED4_EMFAC(46,3)=2.2E-04_hp !TEMP - Temperate
+Inst%GFED4_EMFAC(46,4)=4.9E-04_hp !DEFO - Tropical
+Inst%GFED4_EMFAC(46,5)=6.0E-04_hp !PET -  Peatland
+Inst%GFED4_EMFAC(46,6)=2.5E-04_hp !AGW - Crop residue
+
+! Hydrogen cyanide
+GFED4_SPEC_NAME(47)="HCN"
+Inst%GFED4_EMFAC(47,1)=4.4E-04_hp !SAV - Savannah
+Inst%GFED4_EMFAC(47,2)=5.3E-04_hp !BORF - Boreal
+Inst%GFED4_EMFAC(47,3)=6.4E-04_hp !TEMP - Temperate
+Inst%GFED4_EMFAC(47,4)=4.4E-04_hp !DEFO - Tropical
+Inst%GFED4_EMFAC(47,5)=4.4E-03_hp !PET -  Peatland
+Inst%GFED4_EMFAC(47,6)=4.2E-04_hp !AGW - Crop residue
+
 !EOC
